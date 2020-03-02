@@ -1,2 +1,3 @@
-# 1C-labs
-They persuade me to write code in Russian! Hilarious actually
+# 1C Labs
+1. Создание 1С приложения
+2. Справочники
